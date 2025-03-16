@@ -5,6 +5,7 @@ date,Date Created,
 work,Work Type
 discipline,Discipline
 subject,Subjects,true
+description,Abstract
 location,University
 source,Source
 identifier,Source Identifier,
