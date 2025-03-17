@@ -53,7 +53,7 @@ Open Access research is available without fees, restrictions, or institutional a
 
 
 ### Usage Rights
-Most Open Access work is covered under a Creative Commons license. For information about the usage rights of a specific work, check the item's original Institutional Repository page (click "link to object" on the record's page). To learn more about the Creative Commons, [visit their site.](https://creativecommons.org/share-your-work/cclicenses/). 
+Most Open Access work is covered under a Creative Commons license. For information about the usage rights of a specific work, check the item's original Institutional Repository page (click "link to object" on the record's page). To learn more about the Creative Commons, [visit their site.](https://creativecommons.org/share-your-work/cclicenses/)
 
 Here are more places to find Open Access research on a variety of subjects:
 - [The Directory of Open Access Books](https://www.doabooks.org/)
