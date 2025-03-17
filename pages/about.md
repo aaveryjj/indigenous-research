@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://iiif-prod.nypl.org/index.php?id=62071&t=v" %}
 
-{% include feature/nav-menu.html sections="About the Collection" %}
+{% include feature/nav-menu.html sections="About the Collection;Data Collection;Indigenous Studies;Open Access" %}
 
 ## About the Collection
 This collection represents student theses and dissertations on Indigenous people and subjects, collected from Open Access Institutional Repositories in the Pacific Northwest (Washington and Oregon). The goal of the collection is to promote the accessibility and visibility of Indigenous scholarship and data. 
