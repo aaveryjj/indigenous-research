@@ -38,7 +38,7 @@ This project was sponsored by the [Open Access Digital Theological Library,](htt
 
 The work for this project was undertaken on [Duwamish land.](https://www.duwamishtribe.org/), the home of the first people of Seattle. Acknowledging, honoring, and respecting the Indigenous peoples who have stewarded this land for generations is only the first step towards reconciliation, reparative justice, and resisting the erasure of Indigenous peoples, cultures, and heritage. For a more detailed look at the purpose and usefullness of land acknowledgements, I recommend this piece, [Revisiting "Beyond Territorial Acknowledgments"](https://apihtawikosisan.com/2024/11/revisiting-beyond-territorial-acknowledgments/) by Métis author âpihtawikosisân, Chelsea Vowel.
 
-![Postcard of Tahoma/Mount Rainier and Lake Washington, Seattle](https://iiif-prod.nypl.org/index.php?id=68896&t=v) 
+![Postcard of Tahoma/Mount Rainier and Lake Washington, Seattle](https://iiif-prod.nypl.org/index.php?id=68896&t=g) 
 [Image Source:](https://digitalcollections.nypl.org/items/510d47d9-a0b0-a3d9-e040-e00a18064a99) The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Photography Collection, The New York Public Library. "Mt. Rainier, Lake Washington, Seattle, Wash." New York Public Library Digital Collections. Accessed March 17, 2025. https://digitalcollections.nypl.org/items/510d47d9-a0b0-a3d9-e040-e00a18064a99
 
  
