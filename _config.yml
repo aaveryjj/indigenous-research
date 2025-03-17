@@ -22,10 +22,10 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # title of site appears in banner
 title: Indigenous Studies Research Collection
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Student Theses and Dissertations from Washington and Oregon Universities
+tagline: Student Theses and Dissertations from Washington and Oregon 
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "A collection of PNW graduate student research on Indigenous people, topics, and issues."
+description: "A collection of PNW graduate student research on Indigenous people, topics, and issues. The full content of each work is Open Access: freely available without restriction online."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Avery Johnson
 
