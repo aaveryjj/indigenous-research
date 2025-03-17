@@ -58,8 +58,7 @@ For a list of Indigenous Studies / Native American Studies programs in the Unite
 Open Access research is available without fees, restrictions, or institutional affiliation. This means anyone with an internet connection can read the full content of the work. The majority of academic publishers require readers and libraries to pay journal subscriptions to access their publications, which means that creating and sharing Open Access research helps level the playing field for scholars by removing financial barriers. 
 
 
-
-### Usage Rights
+**Usage Rights**
 Most Open Access work is covered under a Creative Commons license. For information about the usage rights of a specific work, check the item's original Institutional Repository page (click "link to object" on the record's page). To learn more about the Creative Commons, [visit their site.](https://creativecommons.org/share-your-work/cclicenses/)
 
 Here are more places to find Open Access research on a variety of subjects:
