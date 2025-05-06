@@ -15,6 +15,7 @@ credits: true
 ## About the Collection
 This collection represents student theses and dissertations on Indigenous people and subjects, collected from Open Access Institutional Repositories in the Pacific Northwest (Washington and Oregon). The goal of the collection is to promote the accessibility and visibility of Indigenous scholarship and data. 
 
+{% include feature/timelinejs.html %} 
 
 
 ### Data Collection
