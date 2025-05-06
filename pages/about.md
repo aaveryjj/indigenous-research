@@ -40,16 +40,7 @@ The work for this project was undertaken on [Duwamish land](https://www.duwamish
 ![Postcard of Tahoma/Mount Rainier and Lake Washington, Seattle](https://iiif-prod.nypl.org/index.php?id=68896&t=g) 
 [Image Source:](https://digitalcollections.nypl.org/items/510d47d9-a0b0-a3d9-e040-e00a18064a99) The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Photography Collection, The New York Public Library. "Mt. Rainier, Lake Washington, Seattle, Wash." New York Public Library Digital Collections. Accessed March 17, 2025. https://digitalcollections.nypl.org/items/510d47d9-a0b0-a3d9-e040-e00a18064a99
 
- 
 
-### Indigenous Studies
-For the purposes of this collection, Indigenous Studies research -- what is also referred to as Native American, American Indian, Native, or First Nations research -- is defined as work that centers Western Hemisphere Indigenous peoples, topics, issues, and events. This includes peoples indigenous to the modern-day countries of North and South America, who have called these lands home long before European settler-colonization. 
-
-Indigenous knowledge, wisdom, and culture deserve to be valued and shared. For Indigenous communities and scholars, who have often been taken advantage of by non-Indigenous (mainly white) researchers, Open Access Indigenous research can begin to connect the benefits of research to the people themselves and contribute to cultural revitalization. For non-Indigenous researchers, appreciating Indigenous ways of knowing allows us to expand and critique our worldview and understanding of culture, heritage, history, and religion.
-
-While Indigneous authorship was not a collection requirement, many of these works are written by Indigenous people and/or in connection with Indigneous tribes and communities. My hope is that this collection uplifts and centers Indigenous voices.
-
-For a list of Indigenous Studies / Native American Studies programs in the United States, visit the [Association on American Indian Affairs.](https://www.indian-affairs.org/nativestudies.html)
 
 
 
