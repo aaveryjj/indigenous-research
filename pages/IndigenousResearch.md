@@ -16,7 +16,7 @@ Indigenous knowledge, wisdom, and culture deserve to be valued and shared. Indig
 
 Increasing access to this work can encourage and facilitate research for Indigenous researchers. For non-Indigenous researchers, appreciating Indigenous ways of knowing helps us to expand and critique our worldview to create deeper and more respectful understanding of culture, heritage, history, and religion.
 
-While Indigneous authorship was not a collection requirement, many of these works are written by Indigenous people and/or in connection with Indigneous tribes and communities. My hope is that this collection uplifts and centers Indigenous voices.
+While Indigenous authorship was not a collection requirement, many of these works are written by Indigenous people and/or in connection with Indigenous tribes and communities. My hope is that this collection uplifts and centers Indigenous voices.
 
 Common key tenants of Indigenous-led research include Reciprocity, Relationality, Respect, and Responsibility.
 
