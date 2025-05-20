@@ -109,11 +109,11 @@ font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/c
 icon-image: image
 icon-audio: soundwave
 icon-video: film
-icon-pdf: file-pdf
+icon-pdf: book-half
 icon-record: book-half
 icon-compound-object: collection
 icon-multiple: postcard
-icon-default: file-earmark # fall back icon
+icon-default: book-half # fall back icon
 icon-back-to-top: arrow-up-square # scroll to top icon
 arrow-left: arrow-left
 arrow-right: arrow-right
