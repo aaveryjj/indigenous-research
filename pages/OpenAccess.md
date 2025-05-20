@@ -15,6 +15,7 @@ This project was sponsered by the [Open Access Digital Theological Library](http
 
 
 **Usage Rights**
+
 Most Open Access work is covered under a Creative Commons license. For information about the usage rights of a specific work, please check the item's original Institutional Repository page (click "link to object" on the record's page). To learn more about the Creative Commons and the types of licenses, [visit their site.](https://creativecommons.org/share-your-work/cclicenses/)
 
 **Open Access Directories**
