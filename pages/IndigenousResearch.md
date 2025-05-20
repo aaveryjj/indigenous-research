@@ -9,7 +9,8 @@ For the purposes of this collection, Indigenous Studies research -- what is also
 
 Given the scope of this collection, works that specificly focus on Indigenous peoples from Australia, New Zealand, Polynesia, Africa, Asia, etc are not included, although many works featured here are concerned with broad issues that affect all Indigenous peoples.
 
-Find out whose land you live on at [native-land.ca](https://native-land.ca/).
+If you'd like to learn more, start by finding out whose land you live on at [native-land.ca](https://native-land.ca/).
+
 
 Indigenous knowledge, wisdom, and culture deserve to be valued and shared. Indigenous communities across the world have experienced centuries of violence and oppression at the hands of colonizers. They have often been taken advantage of by non-Indigenous (mainly white) researchers who see them as ignorant objects of study rather than active co-creators of knowledge. By removing paywalls and institutional barriers, Open Access Indigenous research can begin to connect the benefits of research to the people themselves and contribute to cultural revitalization. 
 
@@ -17,7 +18,7 @@ Increasing access to this work can encourage and facilitate research for Indigen
 
 While Indigneous authorship was not a collection requirement, many of these works are written by Indigenous people and/or in connection with Indigneous tribes and communities. My hope is that this collection uplifts and centers Indigenous voices.
 
-Common principles of Indigenous research 
+Common key tenants of Indigenous-led research include Reciprocity, Relationality, Respect, and Responsibility.
 
 For a list of Indigenous Studies / Native American Studies programs in the United States, visit the [Association on American Indian Affairs.](https://www.indian-affairs.org/nativestudies.html)
 
