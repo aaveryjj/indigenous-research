@@ -106,12 +106,12 @@ font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/c
 # the values must match an icon svg name in "assets/lib/icons/"
 #
  #icons: 
-icon-image: image
+icon-image: book-half
 icon-audio: soundwave
 icon-video: film
 icon-pdf: book-half
 icon-record: book-half
-icon-compound-object: collection
+icon-compound-object: book-half
 icon-multiple: postcard
 icon-default: book-half # fall back icon
 icon-back-to-top: arrow-up-square # scroll to top icon
