@@ -105,7 +105,7 @@ font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/c
 # the default keys are icon-image, icon-audio, icon-video, icon-pdf, and icon-default
 # the values must match an icon svg name in "assets/lib/icons/"
 #
- icons: 
+ #icons: 
 icon-image: image
 icon-audio: soundwave
 icon-video: film
