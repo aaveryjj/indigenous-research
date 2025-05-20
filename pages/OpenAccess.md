@@ -4,6 +4,7 @@ layout: about
 permalink: /open-access.html
 --- 
 ### What is Open Access?
+
 Open Access research is research that is available without fees, restrictions, or institutional affiliation. This means anyone with an internet connection can read the full content of the work. The majority of academic publishers require readers and libraries to pay journal subscriptions to access their publications, which can be costly and prohibitive. Creating and sharing Open Access research helps level the playing field for scholars by removing financial barriers. 
 
 Of course, this can mean the costs of publishing are simply passed on to the writer, instead of the reader. And not all information or knowledge is meant to be accessible for everyone -- for example, many Indigenous tribes have knowledge that is only meant to be shared at certain times and with certain people.
@@ -19,6 +20,7 @@ This project was sponsered by the [Open Access Digital Theological Library](http
 Most Open Access work is covered under a Creative Commons license. For information about the usage rights of a specific work, please check the item's original Institutional Repository page (click "link to object" on the record's page). To learn more about the Creative Commons and the types of licenses, [visit their site.](https://creativecommons.org/share-your-work/cclicenses/)
 
 **Open Access Directories**
+
 Here are more places to find Open Access research on a variety of subjects:
 - [The Directory of Open Access Books](https://www.doabooks.org/)
 - [The Directory of Open Access Journals](https://doaj.org/)
