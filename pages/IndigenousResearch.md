@@ -23,8 +23,7 @@ Increasing access to this work can encourage and facilitate research for Indigen
 
 While Indigenous authorship was not a collection requirement, many of these works are written by Indigenous people and/or in connection with Indigenous tribes and communities. My hope is that this collection uplifts and centers Indigenous voices.
 
-Common key tenants of Indigenous-led research include Reciprocity, Relationality, Respect, and Responsibility.
 
 For a list of Indigenous Studies / Native American Studies programs in the United States, visit the [Association on American Indian Affairs.](https://www.indian-affairs.org/nativestudies.html)
 
-I am deeply grateful to Dr. Sandy Littletree, a Díne/Eastern Shoshone professor at the University of Washington, for her teachings on  Indigenous Ways of Knowing. You can read her dissertation in this collection!
+I am deeply grateful to Dr. Sandy Littletree, a Díne/Eastern Shoshone professor at the University of Washington, for her teachings on  Indigenous Ways of Knowing. You can read her dissertation in this collection [here](https://aaveryjj.github.io/indigenous-research/item.html?id=wa49)!
