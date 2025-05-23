@@ -51,12 +51,4 @@ The images used on the Home page and the About page are postcards of Tahoma (Was
 - [Home Page Image](https://digitalcollections.nypl.org/items/510d47d9-9a77-a3d9-e040-e00a18064a99)
 - [About Page Image](https://digitalcollections.nypl.org/items/510d47d9-9b63-a3d9-e040-e00a18064a99) 
 
-
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
-
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
-
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
+Visualizations were created using Rstudio and [Datawrapper](https://www.datawrapper.de/).
