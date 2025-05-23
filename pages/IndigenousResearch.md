@@ -4,6 +4,11 @@ layout: about
 permalink: /indig-research.html
 ---
 
+### Land Acknowledgement
+The work for this project was undertaken on [Duwamish land](https://www.duwamishtribe.org/), the home of the first people of Seattle. I am incredibly grateful to live and work on this beautiful land that has been stewarded for centuries by the Duwamish. Acknowledging, honoring, and respecting the Indigenous peoples who have stewarded this land for generations is only the first step towards reconciliation, reparative justice, and resisting the erasure of Indigenous peoples, cultures, and heritage. 
+
+Acknowledgements must be paired with real, actionable change to actually combat colonialization. One way to give back to the Duwamish is through [Real Rent Duwamish](https://www.realrentduwamish.org/). For a more detailed look at the purpose and usefulness of land acknowledgements, I recommend this piece, [Revisiting "Beyond Territorial Acknowledgments"](https://apihtawikosisan.com/2024/11/revisiting-beyond-territorial-acknowledgments/) by Métis author âpihtawikosisân, Chelsea Vowel.
+
 ### Contextualizing Indigenous Research
 For the purposes of this collection, Indigenous Studies research -- what is also referred to as Native American, American Indian, Native, or First Nations research -- is defined as work that centers Western Hemisphere Indigenous peoples, topics, issues, and events. This includes peoples indigenous to the modern-day countries of North and South America, who have called these lands home long before European settler-colonization. 
 
