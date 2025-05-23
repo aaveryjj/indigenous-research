@@ -12,7 +12,7 @@ Acknowledgements must be paired with real, actionable change to actually combat 
 ### Contextualizing Indigenous Research
 For the purposes of this collection, Indigenous Studies research -- what is also referred to as Native American, American Indian, Native, or First Nations research -- is defined as work that centers Western Hemisphere Indigenous peoples, topics, issues, and events. This includes peoples indigenous to the modern-day countries of North and South America, who have called these lands home long before European settler-colonization. 
 
-Given the scope of this collection, works that specificly focus on Indigenous peoples from Australia, New Zealand, Polynesia, Africa, Asia, etc are not included, although many works featured here are concerned with broad issues that affect all Indigenous peoples.
+Given the scope of this collection, works that focus on Indigenous peoples from Australia, New Zealand, Polynesia, Africa, Asia, etc are not included, although many works featured here are concerned with broad issues that affect all Indigenous peoples.
 
 If you'd like to learn more, start by finding out whose land you live on at [native-land.ca](https://native-land.ca/).
 
