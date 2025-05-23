@@ -21,7 +21,8 @@ This collection represents student theses and dissertations on Indigenous people
 
 The universities represented here were chosen by first compiling a list of research institutions in Washington and Oregon that had digital institutional repositories with open access content. After a preliminary exploration of the repositories to estimate how many relevant works each contained, I prioritized data collection from universities with high (50+) amounts of relevant works.
 
-<div style="min-height:400px" id="datawrapper-vis-xpNTB"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/xpNTB/embed.js" charset="utf-8" data-target="#datawrapper-vis-xpNTB"></script><noscript><img src="https://datawrapper.dwcdn.net/xpNTB/full.png" alt="A pie chart depicting the number of works from each university. OSU, UW, UO, and WSU make up the largest sections." /></noscript></div>
+<iframe title="Number of Works by University" aria-label="Pie Chart" id="datawrapper-chart-xpNTB" src="https://datawrapper.dwcdn.net/xpNTB/6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}}))}();
+</script>
 
 **Individual Works**
 
