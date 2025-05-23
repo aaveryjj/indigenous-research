@@ -14,11 +14,6 @@ It's not a perfect system! But spreading awareness of and support for Open Acces
 
 This project was sponsered by the [Open Access Digital Theological Library](https://libguides.thedtl.org/oadtl/about), which curates and catalogs Open Access work in [OCLC WorldCat](https://search.worldcat.org/) -- a huge online platform that connects records from thousands of libraries together, making it easy to search for what you need from libraries near you. The majority of work in this collection is cataloged in OCLC. 
 
-
-**Usage Rights**
-
-Most Open Access work is covered under a Creative Commons license. For information about the usage rights of a specific work, please check the item's original Institutional Repository page (click "link to object" on the record's page). To learn more about the Creative Commons and the types of licenses, [visit their site.](https://creativecommons.org/share-your-work/cclicenses/)
-
 **Open Access Directories**
 
 Here are more places to find Open Access research on a variety of subjects:
@@ -26,3 +21,7 @@ Here are more places to find Open Access research on a variety of subjects:
 - [The Directory of Open Access Journals](https://doaj.org/)
 - [The Digital Commons Network](https://network.bepress.com/)
 - [The Registry of Open Access Repositories](https://roar.eprints.org/)
+
+**Usage Rights**
+
+Most Open Access work is covered under a Creative Commons license. For information about the usage rights of a specific work, please check the item's original Institutional Repository page (click "link to object" on the record's page). To learn more about the Creative Commons and the types of licenses, [visit their site.](https://creativecommons.org/share-your-work/cclicenses/)
