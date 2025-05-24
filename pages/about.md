@@ -19,6 +19,7 @@ This collection represents student theses and dissertations on Indigenous people
 ### Data Collection
 **Institutional Repositories**
 
+This collection is a reflection of knowledge created in the Pacific Northwest, 
 The universities represented here were chosen by first compiling a list of research institutions in Washington and Oregon that had digital institutional repositories with open access content. After a preliminary exploration of the repositories to estimate how many relevant works each contained, I prioritized data collection from universities with high (50+) amounts of relevant works.
 
 
