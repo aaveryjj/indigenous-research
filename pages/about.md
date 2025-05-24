@@ -36,7 +36,7 @@ Indigneous work is often interdisciplinary, and often comes from scholars outsid
 
 
 
-> <iframe title="Indigenous Knowledge is Interdisciplinary  " aria-label="Bar Chart" id="datawrapper-chart-a84Dh" src="https://datawrapper.dwcdn.net/a84Dh/6/" scrolling="no" frameborder="0" style="border: none;" width="600" height="400" data-external="1"></iframe>
+> <div style="min-height:400px" id="datawrapper-vis-a84Dh"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/a84Dh/embed.js" charset="utf-8" data-target="#datawrapper-vis-a84Dh"></script><noscript><img src="https://datawrapper.dwcdn.net/a84Dh/full.png" alt="" /></noscript></div>
 
 
 
