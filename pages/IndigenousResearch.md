@@ -5,9 +5,9 @@ permalink: /indig-research.html
 ---
 
 ### Land Acknowledgement
-The work for this project was undertaken on [Duwamish land](https://www.duwamishtribe.org/), the home of the first people of Seattle. I am incredibly grateful to live and work on this beautiful land that has been stewarded for generations by the Coast Salish peoples. Acknowledging, honoring, and respecting Indigenous peoples is only the first step towards reconciliation, reparative justice, and resisting the erasure of Indigenous peoples, cultures, and heritage. 
+The work for this project was undertaken on [Duwamish, dxʷdəwʔabš, land](https://www.duwamishtribe.org/), the home of the first people of Seattle. I am incredibly grateful to live on this beautiful land that has been stewarded for generations by the Coast Salish peoples. Acknowledging, honoring, and respecting Indigenous peoples is only the first step towards reconciliation, reparative justice, and resisting the erasure of Indigenous peoples, cultures, and heritage. 
 
-Acknowledgements must be paired with real, actionable change to actually fight colonialization. One way to give back to the Duwamish is through [Real Rent Duwamish](https://www.realrentduwamish.org/). 
+Acknowledgements must be paired with real, actionable change to actually fight colonialization. One way to give back to the Duwamish is through [Real Rent Duwamish](https://www.realrentduwamish.org/). Supporting tribal soverignty, celebrations of culture, and Indigenous businesses are others.
 
 If you'd like to learn more about exactly whose land you live on, you can find out at [native-land.ca](https://native-land.ca/).
 
