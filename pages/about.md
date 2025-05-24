@@ -24,7 +24,7 @@ The universities represented here were chosen by first compiling a list of resea
 
 
 
-<iframe title="Number of Works by University" aria-label="Pie Chart" id="datawrapper-chart-xpNTB" src="https://datawrapper.dwcdn.net/xpNTB/6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}}))}();
+> <iframe title="Number of Works by University" aria-label="Pie Chart" id="datawrapper-chart-xpNTB" src="https://datawrapper.dwcdn.net/xpNTB/6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}}))}();
 </script>
 
 
@@ -36,7 +36,7 @@ Indigneous work is often interdisciplinary, and often comes from scholars outsid
 
 
 
-<iframe title="Indigenous Knowledge is Interdisciplinary  " aria-label="Bar Chart" id="datawrapper-chart-a84Dh" src="https://datawrapper.dwcdn.net/a84Dh/6/" scrolling="no" frameborder="0" style="border: none;" width="600" height="400" data-external="1"></iframe>
+> <iframe title="Indigenous Knowledge is Interdisciplinary  " aria-label="Bar Chart" id="datawrapper-chart-a84Dh" src="https://datawrapper.dwcdn.net/a84Dh/6/" scrolling="no" frameborder="0" style="border: none;" width="600" height="400" data-external="1"></iframe>
 
 
 
