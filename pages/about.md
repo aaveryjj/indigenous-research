@@ -22,21 +22,28 @@ This collection represents student theses and dissertations on Indigenous people
 The universities represented here were chosen by first compiling a list of research institutions in Washington and Oregon that had digital institutional repositories with open access content. After a preliminary exploration of the repositories to estimate how many relevant works each contained, I prioritized data collection from universities with high (50+) amounts of relevant works.
 
 
+
 <iframe title="Number of Works by University" aria-label="Pie Chart" id="datawrapper-chart-xpNTB" src="https://datawrapper.dwcdn.net/xpNTB/6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}}))}();
 </script>
+
 
 
 **Individual Works**
 
 Indigneous work is often interdisciplinary, and often comes from scholars outside of Indigenous/Native American programs. Works were selected for inclusion based on literary warrant, or how the works self-identified: through keywords in the title, abstract, content, or subject tags. Author disclosure of Indigenous identity was not a collection requirement. Only student theses, dissertations, and field projects were chosen, due to the prevalence of these works within institutional repositories and for curation in the DTL's OCLC collections.
 
+
+
 <div style="min-height:400px" id="datawrapper-vis-a84Dh"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/a84Dh/embed.js" charset="utf-8" data-target="#datawrapper-vis-a84Dh"></script><noscript><img src="https://datawrapper.dwcdn.net/a84Dh/full.png" alt="" /></noscript></div>
+
+
 
 
 The metadata collected for each work was informed by the [Dublin Core Metadata Schema.](https://www.dublincore.org/about/) The fields include: objectid, title, creator, date, work type, discipline, subject, description, institution, location, description, filename, format, OCLC number, and record type. Metadata was hand-collected by myself (Avery Johnson) along with assistance from several DTL interns.
 
 
-**Project Information**
+
+### Project Information 
 
 This digital collection was curated by Avery Johnson, graduate student at the University of Washington, as part of a Capstone project for the Library and Information Science program. As a white woman, I acknowledge that my understanding of these issues is limited by my privilege and lived experiences, and I am constantly striving to decolonize my practice and perspectives.
 
