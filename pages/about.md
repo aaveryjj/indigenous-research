@@ -34,7 +34,7 @@ The universities represented here were chosen by first compiling a list of resea
 Indigneous work is often interdisciplinary, and often comes from scholars outside of Indigenous/Native American programs. Works were selected for inclusion based on literary warrant, or how the works self-identified: through keywords in the title, abstract, content, or subject tags. Author disclosure of Indigenous identity was not a collection requirement. Only student theses, dissertations, and field projects were chosen, due to the prevalence of these works within institutional repositories and for curation in the DTL's OCLC collections.
 
 
-![a84Dh-indigenous-knowledge-is-interdisciplinary-nbsp-nbsp- (2)](https://github.com/user-attachments/assets/7dd506c0-a631-4692-8b53-ac60cc5cbdfe)
+![a84Dh-indigenous-knowledge-is-interdisciplinary-nbsp-nbsp-](https://github.com/user-attachments/assets/be0349ea-79b0-42d7-bf33-59d374e39e83)
 
 
 The metadata collected for each work was informed by the [Dublin Core Metadata Schema.](https://www.dublincore.org/about/) The fields include: objectid, title, creator, date, work type, discipline, subject, description, institution, location, description, filename, format, OCLC number, and record type. Metadata was hand-collected by myself (Avery Johnson) along with assistance from several DTL interns.
