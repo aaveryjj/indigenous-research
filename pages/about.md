@@ -33,8 +33,26 @@ Indigneous work is often interdisciplinary, and often comes from scholars outsid
 
 >> <iframe title="Indigenous Knowledge is Interdisciplinary  " aria-label="Bar Chart" id="datawrapper-chart-a84Dh" src="https://datawrapper.dwcdn.net/a84Dh/9/" scrolling="no" frameborder="0" style="border: none;" width="500" height="400" data-external="1"></iframe>
  
+Disciplines for each work were chosen from the school or department that authored the degree, and as such they represent the localized culture of learning from which each graduate student writes. There are over 100 different disciplines included in the data, including Architecture, Poetry, Public Health, Drama, Psychology, Educational Leadership, Museum Studies, and many more. Unsurprisingly, many works come from environmental disciplines such as Forest Science and Resource Management, Fishieries Science, Wildlife Science, Marine Science, and Water Resources Policy and Management.
 
-The metadata collected for each work was informed by the [Dublin Core Metadata Schema.](https://www.dublincore.org/about/) The fields include: objectid, title, creator, date, work type, discipline, subject, description, institution, location, description, filename, format, OCLC number, and record type. Metadata was hand-collected by myself (Avery Johnson) along with assistance from several DTL interns.
+### Metadata
+The metadata collected for each work was informed by the [Dublin Core Metadata Schema.](https://www.dublincore.org/about/) 
+The fields include:
+>> **objectid** (a unique identifier)
+>> **title**
+>> **creator** (the author)
+>> **date**
+>> **work type** (theses for Master's students or dissertation for Doctoral students)
+>> **discipline** (from department issuing degree)
+>> **subject** assigned keywords and subject tags. Some universities choose to use [Library of Congress subject headings](https://en.wikipedia.org/wiki/Library_of_Congress_Subject_Headings), while others take a more free form approach without adhering to a classificaiton standard.
+>> **location** (the university)
+>> **description** (the abstract, if provided)
+>> **filename** (link to the work)
+>> **format** (record)
+>> **OCLC number** (you can use this to look up a work in WorldCat)
+>> **type.** (text)
+
+Metadata was hand-collected by myself (Avery Johnson) along with assistance from several DTL interns.
 
 
 
