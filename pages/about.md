@@ -13,13 +13,13 @@ credits: true
 {% include feature/nav-menu.html sections="About the Collection;Data Collection;Project Information;Site Information" %}
 
 ## About the Collection
-This collection contains graduate student theses and dissertations on Indigenous people and subjects, collected from Open Access Institutional Repositories in Washington and Oregon. Research universities often maintain online repositories, central storage locations, for academic work created or published by their students and faculty. Acess to these works is usually restricted to the university, but growing momentum towards Open Access means more and more authors chose to make their work open to the public. The goal of this collection is to bring together common works across multiple repositories to promote the accessibility and visibility of Indigenous scholarship and data. 
+This collection contains graduate student theses and dissertations on Indigenous people and subjects, collected from Open Access Institutional Repositories in Washington and Oregon. Research universities often maintain online repositories, central storage locations, for academic work created or published by their students and faculty. Access to these works is usually restricted to the university, but growing momentum towards Open Access means more and more authors chose to make their work open to the public. The goal of this collection is to bring together common works across multiple repositories to promote the accessibility and visibility of Indigenous scholarship and data. 
 
 
 ### Data Collection
 **Institutional Repositories**
 
-This collection is a reflection of knowledge created in the Pacific Northwest, a rainy and forested region on the western coast of North America. This land is the home of [Coast Salish](https://www.psrc.org/about-us/tribes), a cultural group that includes many tribes both federally recognized and unrecognized. The PNW stretches up through British Columbia, Canada, but given the limited scope of this projec the collection is restricted to work created in the United States.
+This collection is a reflection of knowledge created in the Pacific Northwest, a rainy and forested region on the western coast of North America. This land is the home of the [Coast Salish](https://www.psrc.org/about-us/tribes), a term that describes many tribes (federally recognized and not) connected by language and history. The PNW stretches up through British Columbia, Canada, but given the limited scope of this projec the collection is restricted to work created in the United States.
 The universities represented here were chosen by first compiling a list of research institutions in Washington and Oregon that had online institutional repositories with Open Access content, beginning with the [Orbis-Cascade Alliance](https://www.orbiscascade.org/about/members/). I conducted a preliminary exploration of the repositories by sample searching keywords to estimate how many relevant works each contained. For robust data collection, I prioritized universities with high (50+) amounts of relevant works.
 
 
