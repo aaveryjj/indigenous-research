@@ -10,6 +10,7 @@ cloud-fields: site.data.theme.subjects-fields
 ## Top Subjects
 
 <iframe title="Top Subjects" aria-label="Column Chart" id="datawrapper-chart-C2t4v" src="https://datawrapper.dwcdn.net/C2t4v/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="400" data-external="1"></iframe>
+
 ## Browse Subjects
 
 Use this word cloud visualization to browse terms and subjects.
