@@ -52,20 +52,19 @@ The fields include:
 >> **OCLC number** (you can use this to look up a work in WorldCat)
 >> **type.** (text)
 
-Metadata was hand-collected by myself (Avery Johnson) along with assistance from several DTL interns.
+Metadata was hand-collected by Avery along with assistance from several DTL interns.
 
 
 
 ### Project Information 
 
-This digital collection was curated by Avery Johnson, graduate student at the University of Washington, as part of a Capstone project for the Library and Information Science program. As a white woman, I acknowledge that my understanding of these issues is limited by my privilege and lived experiences, and I am constantly striving to decolonize my practice and perspectives.
+This digital collection was curated by Avery Johnson, graduate student at the University of Washington, as part of a Capstone project for the Library and Information Science program. As a white woman, I acknowledge that my understanding of these issues is limited by my privilege and lived experiences, and I am constantly striving to decolonize my practice and perspectives. My goal for this project is to prioritize Indigenous people and knowledge and use my privilege to increase access to this body of knowledge for the benefit of Indigenous researchers.
 
 This project was sponsored by the [Open Access Digital Theological Library,](https://libguides.thedtl.org/oadtl/about) whose mission "is to curate high-quality content in religious studies and related disciplines from publisher websites, institutional repositories, scholarly societies, archives, and stable public domain collections." The vast majority of works included in this digital collection are cataloged in [OCLC,](https://www.oclc.org/en/worldcat.html) one of the largest integrated library systems in the world, and included in the DTL's OCLC collections.
 
 
 ![Postcard of Tahoma/Mount Rainier and Lake Washington, Seattle](https://iiif-prod.nypl.org/index.php?id=68896&t=g) 
 [Image Source:](https://digitalcollections.nypl.org/items/510d47d9-a0b0-a3d9-e040-e00a18064a99) The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Photography Collection, The New York Public Library. "Mt. Rainier, Lake Washington, Seattle, Wash." New York Public Library Digital Collections. Accessed March 17, 2025. https://digitalcollections.nypl.org/items/510d47d9-a0b0-a3d9-e040-e00a18064a99
-
 
 
 ### Site Information
