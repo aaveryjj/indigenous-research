@@ -25,7 +25,7 @@ title: Open Access Indigenous Research
 tagline: Theses and Dissertations from Washington and Oregon 
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "A collection of graduate student research covering Indigenous people, topics, and issues from eight universities across the Pacific Northwest. The full content of each work is Open Access: freely available without restriction online."
+description: "A collection of graduate student research focused on Indigenous peoples, topics, and issues from eight universities across the Pacific Northwest. The full content of each work is Open Access: freely available without restriction online, and the full collection can be downloaded as a usable dataset."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Avery Johnson
 
@@ -40,7 +40,7 @@ metadata: final-data
 # Site/Organization Branding 
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
-# organization-name: "Center for Digital Inquiry and Learning (CDIL)"
+organization-name: "University of Washington MLIS program"
 # organization-link: https://cdil.lib.uidaho.edu/
 # organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
 # organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
