@@ -36,21 +36,21 @@ Indigneous work is often interdisciplinary, and often comes from scholars outsid
 Disciplines for each work were chosen from the school or department that authored the degree, and as such they represent the localized culture of learning from which each graduate student writes. There are over 100 different disciplines included in the data, including Architecture, Poetry, Public Health, Drama, Psychology, Educational Leadership, Museum Studies, and many more. Unsurprisingly, many works come from environmental disciplines such as Forest Science and Resource Management, Fishieries Science, Wildlife Science, Marine Science, and Water Resources Policy and Management.
 
 ### Metadata
-The metadata collected for each work was informed by the [Dublin Core Metadata Schema.](https://www.dublincore.org/about/) 
+The metadata collected for each work was informed by the [Dublin Core Metadata Schema](https://www.dublincore.org/about/) and copied directly from each Institutional Repository page to reflect the intention of the author.
 The fields include:
->> **objectid** (a unique identifier)
->> **title**
->> **creator** (the author)
->> **date**
->> **work type** (theses for Master's students or dissertation for Doctoral students)
->> **discipline** (from department issuing degree)
->> **subject** assigned keywords and subject tags. Some universities choose to use [Library of Congress subject headings](https://en.wikipedia.org/wiki/Library_of_Congress_Subject_Headings), while others take a more free form approach without adhering to a classificaiton standard.
->> **location** (the university)
->> **description** (the abstract, if provided)
->> **filename** (link to the work)
->> **format** (record)
->> **OCLC number** (you can use this to look up a work in WorldCat)
->> **type.** (text)
+- **objectid** (a unique identifier)
+- **title**
+- **creator** (the author)
+- **date** (year the work was published)
+- **work type** (theses for Master's students or dissertation for Doctoral students)
+- **discipline** (from department issuing degree)
+- **subject** (assigned keywords and subject tags. Some universities choose to use [Library of Congress subject headings](https://en.wikipedia.org/wiki/Library_of_Congress_Subject_Headings), while others take a more free form approach without adhering to a classificaiton standard)
+- **location** (the university)
+- **description** (the abstract, if provided)
+- **filename** (link to the work)
+- **format** (record)
+- **OCLC number** (you can use this to look up a work in WorldCat)
+- **type** (text -- although some works contain images and multimedia)
 
 Metadata was hand-collected by Avery along with assistance from several DTL interns.
 
