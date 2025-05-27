@@ -47,7 +47,7 @@ The fields include:
 - **date** (year the work was published)
 - **work type** (theses for Master's students or dissertation for Doctoral students)
 - **discipline** (from department issuing degree)
-- **subject** (assigned keywords and subject tags. Some universities choose to use [Library of Congress subject headings](https://en.wikipedia.org/wiki/Library_of_Congress_Subject_Headings), while others take a more free form approach without adhering to a classificaiton standard)
+- **subject** (assigned keywords and subject tags. Some universities choose to use [Library of Congress subject headings](https://en.wikipedia.org/wiki/Library_of_Congress_Subject_Headings), while others take a more free form approach without adhering to a classification standard.)
 - **location** (the university)
 - **description** (the abstract, if provided)
 - **filename** (link to the work)
