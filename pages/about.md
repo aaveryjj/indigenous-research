@@ -55,7 +55,7 @@ The fields include:
 - **OCLC number** (you can use this to look up a work in WorldCat)
 - **type** (text -- although some works contain images and multimedia)
 
-Metadata was hand-collected by Avery along with assistance from several DTL interns.
+Metadata was hand-collected by Avery along with assistance from several DTL interns (thank you Javi, Sierra, and Maggie!).
 
 
 
